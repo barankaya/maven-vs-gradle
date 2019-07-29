@@ -48,6 +48,8 @@ Maven – 47/60
 
 Gradle – 40/60
 
+[StackShare compare](https://stackshare.io/stackups/gradle-vs-maven)
+
 ## Choices
 
 **Gradle**
@@ -65,3 +67,4 @@ Maven is widely used and has robust defined workflow around it. Developers are v
 This would be the one option for a company with a wide range of development options. It may give developers flexibility to adopt tools as per their choice with a given workflow.
 
 [Reference #](https://devops.com/puzzle-gradle-maven/)
+
